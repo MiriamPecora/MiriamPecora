@@ -22,12 +22,6 @@ Sono una ragazza di 27 anni con una passione profonda per l'informatica, nata da
 - **Laravel**
 - **Unreal Engine**
 
-## Cosa Mi Appassiona
-
-*Nel contesto attuale, le tendenze online, siano esse micro o macro, influenzano profondamente ogni aspetto della nostra vita. Questi trend, che si manifestano come nuclei o estetiche, sono evidenti sia nel mondo digitale che in quello reale.*
-
-Un'importante area di interesse per me è l'uso della nostalgia nelle estetiche, in particolare quelle che richiamano le tendenze degli anni 2000. Osservo come la nostalgia spinga le persone a cercare elementi che rispecchiano le loro esperienze passate, creando un senso di appartenenza e di significato in ciò che hanno vissuto durante la loro crescita.
-
 ## Contattami
 
 - **[Linkedin](https://www.linkedin.com/in/miriam-pecora-19219924b/)**
