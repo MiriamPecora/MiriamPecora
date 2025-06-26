@@ -2,7 +2,7 @@
 
 ## Chi Sono
 
-Sono una ragazza di 27 anni con una passione profonda per l'informatica, nata dal mio amore per i videogiochi e per il web. Dopo aver studiato Game Design e completato un corso intensivo come Full Stack Web Developer presso Boolean, ho acquisito competenze avanzate nella progettazione e nello sviluppo di siti web.
+Sono una ragazza di 28 anni con una passione profonda per l'informatica, nata dal mio amore per i videogiochi e per il web. Dopo aver studiato Game Design e completato un corso intensivo come Full Stack Web Developer presso Boolean, ho acquisito competenze avanzate nella progettazione e nello sviluppo di siti web.
 
 ## Cosa Faccio...
 
